@@ -13,7 +13,7 @@ def Division(a,b)
  
 end
 
-def Multiplication
+def Multiplication(a,b)
   puts a * b
  
  end
@@ -21,4 +21,3 @@ def Multiplication
  Subtraction(10,5)
  Division(12,6)
  Multiplication(3,4)
- 
